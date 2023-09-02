@@ -1,3 +1,5 @@
+markdown: kramdown
+
 ## Barbeque Checklist
 
 - [ ] **Cookware**
