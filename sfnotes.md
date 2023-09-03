@@ -1,6 +1,6 @@
 
 ## Shellfishing Info
-- [Tide calendar](https://tides.net/washington/773/)
+- [Tide calendar](https://tides.net/washington/773/) / [All-year tide prediction](https://tidesandcurrents.noaa.gov/noaatidepredictions.html?id=9446828&units=standard&bdate=20230901&edate=20230930&timezone=LST/LDT&clock=12hour&datum=MLLW&interval=hilo&action=monthlychart&thresholdvalue=2.5&threshold=greaterThan)
 - [Shellfish restriction](https://fortress.wa.gov/doh/biotoxin/biotoxin.html)
 - [State park info](https://www.parks.wa.gov/297/Tolmie)
 - [Burn ban](https://fortress.wa.gov/dnr/protection/firedanger/)
