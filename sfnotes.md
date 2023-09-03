@@ -4,6 +4,7 @@
 - [Shellfish restriction](https://fortress.wa.gov/doh/biotoxin/biotoxin.html)
 - [State park info](https://www.parks.wa.gov/297/Tolmie)
 - [Burn ban](https://fortress.wa.gov/dnr/protection/firedanger/)
+- [Nautical map](https://usa.fishermap.org/depth-map/puget-sound-wa/#map)
 
 ## Check List
 
