@@ -20,6 +20,8 @@ Optional:
 - stool
 - clam shovel
 
+BBQ list: [link](./bbqlist.md)
+
 ## Plan
 
 [Tolmie State Park](https://goo.gl/maps/dEv7ZPikmjWcwhs99), Sep 3rd 12-5pm, when sea level is below +6ft
